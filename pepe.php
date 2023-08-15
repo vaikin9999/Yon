@@ -6,10 +6,6 @@
     <title>Hola mundo de pepe</title>
 </head>
 <body>
-<<<<<<< HEAD
-   <p> hola culeros 2</p> 
-=======
    <p> HOLA GIT HUB c:</p> 
->>>>>>> parent of bf1d09e (pepe2)
 </body>
 </html>
