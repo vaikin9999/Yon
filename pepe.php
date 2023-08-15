@@ -6,6 +6,6 @@
     <title>Hola mundo de pepe</title>
 </head>
 <body>
-   <p> Hola mundo 2 c:</p> 
+   <p> HOLA GIT HUB c:</p> 
 </body>
 </html>
